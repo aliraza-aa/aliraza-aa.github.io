@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extreme Dynamics & Therapetuics Laboratory
+title: Extreme Dynamics & Therapetuics Lab
 ---
 
 We employ interdisciplinary methods to study, understand, and drug proteins with extreme conformational dynamics to address human disease.
