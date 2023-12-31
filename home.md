@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: eXtreme Dynamics & Therapetuics Lab
 permalink: /home/
 ---
 
