@@ -15,6 +15,13 @@ avatar: images/c0_AB.png
 # Flags below are optional
 #
 
+# navigation links
+navbar_links:
+  - text: Home
+    url: /
+  - text: Who We Are
+    url: /who_we_are/
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
