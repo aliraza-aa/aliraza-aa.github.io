@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: XDT Lab Overview
 permalink: /home/
 ---
 
