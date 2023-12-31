@@ -12,10 +12,12 @@ Dr Gabriella Heller (PI) leads the eXtreme Dynamics and Therapeutics Laboratory.
 
 ### Jasmine Cornish
 
+[coming soon!]
 
 ### Kirsten Silvey
 
+[coming soon!]
 
 ### Ailsa Gavan McHarg
 
-Ailsa Gavan McHarg is a PhD student interested in viral IDPs. Her PhD project focuses on investigating the highly disordered non-structural protein 5A (NS5A) protein in Hepatis C virus. Ailsa has a broad biology background; previously she studyed BSc Biology at the University of Bath where she specialised in infection science and protein biology. During this time, she spent a year working at St Jude Children’s Research Hospital (USA) in the Pharmaceutical Department where she explored the underlying pathology of acute lymphoblastic leukaemia (ALL) and chemoresistance associated with the ABCG2 transporter. After her undergraduate degree, Ailsa moved into clinical science, working in a diagnostic lab in the NHS where she supported the diagnosis and monitoring of genetic diseases in metabolic biochemical pathways. After taking some time out to travel in 2022, she began her PhD with the London Interdisciplinary Bioscience Consortium (LIDo). Outside of the lab, Ailsa enjoys playing Ultimate Frisbee, running, and reading. 
+Ailsa Gavan McHarg is a PhD student interested in viral IDPs. Her PhD project focuses on investigating the highly disordered non-structural protein 5A (NS5A) protein in Hepatis C virus. Ailsa has a broad biology background; previously she studyed BSc Biology at the University of Bath where she specialised in infection science and protein biology. During this time, she spent a year working at St Jude Children’s Research Hospital (USA) in the Pharmaceutical Department where she explored the underlying pathology of acute lymphoblastic leukaemia (ALL) and chemoresistance associated with the ABCG2 transporter. After her undergraduate degree, Ailsa moved into clinical science, working in a diagnostic lab in the NHS where she supported the diagnosis and monitoring of genetic diseases in metabolic biochemical pathways. After taking some time out to travel in 2022, she began her PhD with the London Interdisciplinary Bioscience Consortium (LIDo). She is co-supervised by Jerome Gouge and Greg Towers. Outside of the lab, Ailsa enjoys playing Ultimate Frisbee, running, and reading. 
