@@ -14,3 +14,5 @@ We are a team of diverse, interdisciplinary scientists interested in studying, u
 
 
 ### How We Do It 
+
+We use a combination of experimental techniques (e.g. nuclear magnetic resonance spectroscopy, cryo-EM, biophysical methods) and computational approaches (e.g. molecular dynamics simulations) to study the role of IDPs in disease and understand how drugs interact with these dynamic biomolecules, with the ultimate goal of unleashing their enormous therapeutic potential.
