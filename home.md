@@ -1,6 +1,5 @@
 ---
 layout: page
-title: /none
 permalink: /home/
 ---
 
