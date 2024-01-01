@@ -12,7 +12,7 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
    
 2. V Shukla, <u>G Heller</u>,* D Hansen.* **Biomolecular NMR spectroscopy in the era of artificial intelligence**. Structure. 2023. [Link](https://doi.org/10.1016/j.str.2023.09.011) (*corresponding authors).
 
-3. <u>G Heller</u>, L Yua, D Hansen. **Characterising intrinsically disordered proteins using NMR spectroscopy and molecular dynamics simulations**. In NMR Spectroscopy for Probing Functional Dynamics at Biological Interfaces, Royal Society of Chemistry, 2022. [Link](https://doi.org/10.1039/9781839165702-00383)
+3. <u>G Heller</u>, L Yua, D Hansen. **Characterising intrinsically disordered proteins using NMR spectroscopy and molecular dynamics simulations**. In NMR Spectroscopy for Probing Functional Dynamics at Biological Interfaces, Royal Society of Chemistry, 2022. [Link](https://doi.org/10.1039/9781839165702-00383) 
 
 4. T L&oumlhr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A small molecule stabilises the disordered native state of the Alzheimer's A$\upbeta$ peptide**. ACS Chemical Neuroscience, 2022. [Link](https://doi.org/10.1021/acschemneuro.2c00116)
 
