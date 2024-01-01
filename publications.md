@@ -4,14 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-### Publications 
 For a full list of publications, please see [here](https://scholar.google.com/citations?user=xB2BOkQAAAAJ&hl=en&oi=ao).
 
-## Highlighted Peer-Reviewed Publications
+## Selected Peer-Reviewed Publications
 
 
-
-1. **G Heller**, V Shukla, D Hansen. **Small-molecule binding to an intrinsically disordered protein revealed by experimental NMR \textsuperscript{19}F transverse spin-relaxation**. bioRxiv, 2023. [Link](https://doi.org/10.1101/2023.05.03.539297).
+1. **G Heller**, V Shukla, D Hansen. **Small-molecule binding to an intrinsically disordered protein revealed by experimental NMR <sup>19</sup>F transverse spin-relaxation**. bioRxiv, 2023. [Link](https://doi.org/10.1101/2023.05.03.539297).
    
 2. V Shukla, **G Heller**, *D Hansen*. **Biomolecular NMR spectroscopy in the era of artificial intelligence**. Structure. 2023. [Link](https://doi.org/10.1016/j.str.2023.09.011) (*corresponding authors*).
 
