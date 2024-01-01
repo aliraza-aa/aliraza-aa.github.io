@@ -21,7 +21,7 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
    - *Featured in a press release by the University of Cambridge:* [Link](https://www.cam.ac.uk/research/news/following-the-hops-of-disordered-proteins-could-lead-to-future-treatments-of-alzheimers-disease)
    - *In the journal's News & Views:* [Link](https://www.nature.com/articles/s43588-020-00010-x).
 
-6. <u>G Heller</u>, F Aprile, T Michaels, R Limbocker, M Perni, F Ruggeri, B Mannini, T L&ouml;hr, M Bonomi, A De Simone, I Felli, R Pierattelli, T Knowles, C Dobson, M Vendruscolo. **Small molecule sequestration of amyloid-&beta; as a drug discovery strategy for Alzheimer's disease.*** Science Advances, 2020. [Link](https://doi.org/10.1126/sciadv.abb5924)
+6. <u>G Heller</u>, F Aprile, T Michaels, R Limbocker, M Perni, F Ruggeri, B Mannini, T L&ouml;hr, M Bonomi, A De Simone, I Felli, R Pierattelli, T Knowles, C Dobson, M Vendruscolo. **Small molecule sequestration of amyloid-&beta; as a drug discovery strategy for Alzheimer's disease.** Science Advances, 2020. [Link](https://doi.org/10.1126/sciadv.abb5924)
 
    - *Featured in a press release by the University of Cambridge:* [Link](https://www.cam.ac.uk/research/news/researchers-show-how-to-target-a-shape-shifting-protein-in-alzheimers-disease).
 
