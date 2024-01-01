@@ -10,7 +10,7 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
 
 1. <u>G Heller</u>, V Shukla, D Hansen. **Small-molecule binding to an intrinsically disordered protein revealed by experimental NMR <strong><sup>19</sup>F</strong> transverse spin-relaxation**. bioRxiv, 2023. [Link](https://doi.org/10.1101/2023.05.03.539297).
    
-2. V Shukla, <u>G Heller</u>, D Hansen. **Biomolecular NMR spectroscopy in the era of artificial intelligence**. Structure. 2023. [Link](https://doi.org/10.1016/j.str.2023.09.011) (*corresponding authors*).
+2. V Shukla, <u>G Heller</u>,* D Hansen*. **Biomolecular NMR spectroscopy in the era of artificial intelligence**. Structure. 2023. [Link](https://doi.org/10.1016/j.str.2023.09.011) (*corresponding authors).
 
 3. <u>G Heller</u>, L Yua, D Hansen. **Characterising intrinsically disordered proteins using NMR spectroscopy and molecular dynamics simulations**. In NMR Spectroscopy for Probing Functional Dynamics at Biological Interfaces, Royal Society of Chemistry, 2022. [Link](https://doi.org/10.1039/9781839165702-00383)
 
