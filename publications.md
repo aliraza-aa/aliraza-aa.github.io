@@ -8,7 +8,7 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
 
 ## Selected Peer-Reviewed Publications
 
-1. <u>G Heller</u>, V Shukla, D Hansen. **Small-molecule binding to an intrinsically disordered protein revealed by experimental NMR <strong><sup>19</sup>F</strong>F transverse spin-relaxation**. bioRxiv, 2023. [Link](https://doi.org/10.1101/2023.05.03.539297).
+1. <u>G Heller</u>, V Shukla, D Hansen. **Small-molecule binding to an intrinsically disordered protein revealed by experimental NMR <strong><sup>19</sup>F</strong> transverse spin-relaxation**. bioRxiv, 2023. [Link](https://doi.org/10.1101/2023.05.03.539297).
    
 2. V Shukla, <u>G Heller</u>, D Hansen. **Biomolecular NMR spectroscopy in the era of artificial intelligence**. Structure. 2023. [Link](https://doi.org/10.1016/j.str.2023.09.011) (*corresponding authors*).
 
