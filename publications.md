@@ -14,14 +14,14 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
 
 3. <u>G Heller</u>, L Yua, D Hansen. **Characterising intrinsically disordered proteins using NMR spectroscopy and molecular dynamics simulations**. In NMR Spectroscopy for Probing Functional Dynamics at Biological Interfaces, Royal Society of Chemistry, 2022. [Link](https://doi.org/10.1039/9781839165702-00383) 
 
-4. T L&ouml;hr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A small molecule stabilises the disordered native state of the Alzheimer's A$\upbeta$ peptide**. ACS Chemical Neuroscience, 2022. [Link](https://doi.org/10.1021/acschemneuro.2c00116)
+4. T L&ouml;hr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A small molecule stabilises the disordered native state of the Alzheimer's A&beta; peptide**. ACS Chemical Neuroscience, 2022. [Link](https://doi.org/10.1021/acschemneuro.2c00116)
 
-5. T L&ouml;hr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A kinetic ensemble of the Alzheimer's A$\upbeta$ peptide.*** Nature Computational Science, 2021. [Link](https://doi.org/10.1038/s43588-020-00003-w)
+5. T L&ouml;hr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A kinetic ensemble of the Alzheimer's A&beta; peptide.*** Nature Computational Science, 2021. [Link](https://doi.org/10.1038/s43588-020-00003-w)
 
    - *Featured in a press release by the University of Cambridge:* [Link](https://www.cam.ac.uk/research/news/following-the-hops-of-disordered-proteins-could-lead-to-future-treatments-of-alzheimers-disease)
    - *In the journal's News & Views:* [Link](https://www.nature.com/articles/s43588-020-00010-x).
 
-6. <u>G Heller</u>, F Aprile, T Michaels, R Limbocker, M Perni, F Ruggeri, B Mannini, T L&ouml;hr, M Bonomi, A De Simone, I Felli, R Pierattelli, T Knowles, C Dobson, M Vendruscolo. **Small molecule sequestration of amyloid-$\upbeta$ as a drug discovery strategy for Alzheimer's disease.*** Science Advances, 2020. [Link](https://doi.org/10.1126/sciadv.abb5924)
+6. <u>G Heller</u>, F Aprile, T Michaels, R Limbocker, M Perni, F Ruggeri, B Mannini, T L&ouml;hr, M Bonomi, A De Simone, I Felli, R Pierattelli, T Knowles, C Dobson, M Vendruscolo. **Small molecule sequestration of amyloid-&beta; as a drug discovery strategy for Alzheimer's disease.*** Science Advances, 2020. [Link](https://doi.org/10.1126/sciadv.abb5924)
 
    - *Featured in a press release by the University of Cambridge:* [Link](https://www.cam.ac.uk/research/news/researchers-show-how-to-target-a-shape-shifting-protein-in-alzheimers-disease).
 
