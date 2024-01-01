@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Who We Are
-permalink: /who_we_are/
+title: The Team
+permalink: /the_team/
 ---
 <div style="text-align: justify;">
 
