@@ -35,7 +35,7 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
 
 11. <u>G Heller</u>, F Aprile, M Bonomi, C Camilloni, A De Simone, M Vendruscolo. **Sequence specificity in the entropy-driven binding of a small molecule and a disordered peptide.*** Journal of Molecular Biology, 2017. [Link](https://doi.org/10.1016/j.jmb.2017.07.016)
 
-   - *Featured as the Journal of Molecular Biology's cover for Volume 430, Issue 5.* 
+   - *Featured as the Journal of Molecular Biology's cover for Volume 430, Issue 5.* [Link](https://www.journals.elsevier.com/journal-of-molecular-biology/covers-gallery/cover-of-volume-issue-5)
 
 12. M Bonomi, <u>G Heller</u> (co-first author), M Vendruscolo. **Principles of protein structural ensemble determination.** Current Opinion in Structural Biology, 2017. [Link](https://doi.org/10.1016/j.sbi.2016.12.004).
 
