@@ -16,7 +16,7 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
 
 4. T L&ouml;hr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A small molecule stabilises the disordered native state of the Alzheimer's A&beta; peptide**. ACS Chemical Neuroscience, 2022. [Link](https://doi.org/10.1021/acschemneuro.2c00116)
 
-5. T L&ouml;hr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A kinetic ensemble of the Alzheimer's A&beta; peptide.*** Nature Computational Science, 2021. [Link](https://doi.org/10.1038/s43588-020-00003-w)
+5. T L&ouml;hr, K Kohlhoff, <u>G Heller</u>, C Camilloni, M Vendruscolo. **A kinetic ensemble of the Alzheimer's A&beta; peptide.** Nature Computational Science, 2021. [Link](https://doi.org/10.1038/s43588-020-00003-w)
 
    - *Featured in a press release by the University of Cambridge:* [Link](https://www.cam.ac.uk/research/news/following-the-hops-of-disordered-proteins-could-lead-to-future-treatments-of-alzheimers-disease)
    - *In the journal's News & Views:* [Link](https://www.nature.com/articles/s43588-020-00010-x).
@@ -33,7 +33,7 @@ For a full list of publications, please see [here](https://scholar.google.com/ci
 
 10. R Rangan, M Bonomi, <u>G Heller</u>, A Cesari, G Bussi, M Vendruscolo. **Determination of structural ensembles of proteins: Restraining vs reweighting.** Journal of Chemical Theory and Computation, 2018. [Link](https://doi.org/10.1021/acs.jctc.8b00738)
 
-11. <u>G Heller</u>, F Aprile, M Bonomi, C Camilloni, A De Simone, M Vendruscolo. **Sequence specificity in the entropy-driven binding of a small molecule and a disordered peptide.*** Journal of Molecular Biology, 2017. [Link](https://doi.org/10.1016/j.jmb.2017.07.016)
+11. <u>G Heller</u>, F Aprile, M Bonomi, C Camilloni, A De Simone, M Vendruscolo. **Sequence specificity in the entropy-driven binding of a small molecule and a disordered peptide.** Journal of Molecular Biology, 2017. [Link](https://doi.org/10.1016/j.jmb.2017.07.016)
 
    - *Featured as the Journal of Molecular Biology's cover for Volume 430, Issue 5.* [Link](https://www.journals.elsevier.com/journal-of-molecular-biology/covers-gallery/cover-of-volume-issue-5)
 
