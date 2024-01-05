@@ -4,7 +4,7 @@ title: Funding
 permalink: /funding/
 ---
 
-We are grateful to the supporters of our work:
+### We are grateful to the supporters of our work:
 
 ![image tooltip here](/images/UKRI_BBSR_Council-Logo_Horiz-RGB.png)
 
