@@ -11,3 +11,7 @@ We are grateful to the supporters of our work:
 ![image tooltip here](/images/schmidt_science_fellows_logo.jpg)
 
 ![image tooltip here](/images/Newnham_logo.jpg)
+
+![image tooltip here](/images/UCL_BBK_MRC.svg)
+
+![image tooltip here](/images/LIDO.svg)
