@@ -14,4 +14,4 @@ permalink: /funding/
 
 ![image tooltip here](/images/UCL_BBK_MRC.svg)
 
-![image tooltip here](/images/LIDO.svg)
+![image tooltip here](/images/LIDO.png)
