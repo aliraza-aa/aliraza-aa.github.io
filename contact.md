@@ -4,12 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-Dr Gabriella Heller
-Department of Structural and Molecular Biology
-Division of Biosciences
-University College London
-Darwin Building - Gower Street
-WC1E 6BT London, UK
+<p>Dr Gabriella Heller<br>
+Department of Structural and Molecular Biology<br>
+Division of Biosciences<br>
+University College London<br>
+Darwin Building - Gower Street<br>
+WC1E 6BT London, UK<br>
 
-e-mail: g.heller [at] ucl.ac.uk
-Twitter: @G_T_Heller
+e-mail: g.heller [at] ucl.ac.uk<br>
+Twitter: @G_T_Heller<br>
+</p>
