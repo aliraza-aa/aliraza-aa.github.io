@@ -13,5 +13,5 @@ WC1E 6BT London, UK<br>
 <br>
 e-mail: g.heller [at] ucl.ac.uk<br>
 github: <a href="https://github.com/gthh2">gthh2</a><br>
-Twitter: [@G_T_Heller]([https://www.ucl.ac.uk/biosciences/structural-and-molecular-biology](https://twitter.com/G_T_Heller)https://twitter.com/G_T_Heller)<br>
+Twitter: <a href="https://www.ucl.ac.uk/biosciences/structural-and-molecular-biology">@G_T_Heller</a><br>
 </p>
