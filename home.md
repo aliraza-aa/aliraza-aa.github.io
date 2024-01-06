@@ -1,5 +1,6 @@
 ---
 layout: page_notitle
+title: About us
 permalink: /
 ---
 
