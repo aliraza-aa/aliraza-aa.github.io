@@ -1,6 +1,6 @@
 ---
 layout: page_notitle
-permalink: /
+permalink: /home/
 ---
 
 ### Who We Are 
