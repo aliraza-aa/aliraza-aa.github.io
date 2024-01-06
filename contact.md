@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <p>Dr Gabriella Heller<br>
-<a href="https://www.ucl.ac.uk/biosciences/structural-and-molecular-biology">Department of Structural & Molecular Biology</a>
+<a href="https://www.ucl.ac.uk/biosciences/structural-and-molecular-biology">Department of Structural & Molecular Biology</a><br>
 Division of Biosciences<br>
 University College London<br>
 Darwin Building - Gower Street<br>
