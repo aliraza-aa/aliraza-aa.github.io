@@ -1,7 +1,7 @@
 ---
 layout: page_notitle
 title: About us
-permalink: /
+permalink: /home/
 ---
 
 ### Who We Are
