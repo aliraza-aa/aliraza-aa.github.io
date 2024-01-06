@@ -1,7 +1,4 @@
----
-layout: page_notitle
-permalink: /
----
+
 
 ### Who We Are 
 
