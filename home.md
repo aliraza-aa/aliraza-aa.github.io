@@ -1,6 +1,5 @@
 ---
 layout: page_notitle
-title:
 permalink: /
 ---
 
