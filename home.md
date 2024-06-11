@@ -1,6 +1,7 @@
 ---
-# layout: page_notitle
-# permalink: /
+layout: page_notitle
+title:
+permalink: /
 ---
 
 ### Who We Are
