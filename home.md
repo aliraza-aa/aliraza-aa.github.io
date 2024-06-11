@@ -1,6 +1,6 @@
 ---
 layout: page_notitle
-title: fslfdjs
+title: Funding
 permalink: /
 ---
 
